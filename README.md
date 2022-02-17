@@ -3,8 +3,8 @@ Hello, I go by Daemon Forge Online and I mainly develop open-source Mods for Day
 
 <div>
     <a href="https://github.com/daemonforge">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daemonforge&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daemonforge&layout=compact&langs_count=7&theme=slateorange"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daemonf0rge&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daemonf0rge&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
 <div> 
     <a href="https://www.youtube.com/channel/UC5pH0nFnVhHtq4L0uv5QlXA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
